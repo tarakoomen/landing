@@ -1,0 +1,8 @@
+.btn-pink {
+  display: inline-block;
+  background-color: rgb(247, 192, 231);
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  margin-top: 8px;
+}
